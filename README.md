@@ -14,7 +14,7 @@ Esses padrões binários locais são então convertidos para uma representação
 O LBP é conhecido por sua simplicidade, eficiência computacional e capacidade de capturar informações discriminativas sobre texturas. Ele tem sido amplamente utilizado em diversas aplicações, incluindo reconhecimento de objetos, segmentação de imagens e análise de texturas em imagens médicas. Devido à sua natureza robusta e eficácia em diferentes cenários, o descritor LBP continua sendo uma escolha valiosa na área de processamento de imagens e visão computacional.
 
 ## Repositório do Projeto
-[LBP descriptor with SVM, RF and MLP classifiers](https://github.com/inteiros/image_processing)
+[LBP descriptor with SVM, RF and MLP classifiers](https://github.com/inteiros/LBP_ML)
 
 ## Classificadores e Acurácia
 
@@ -22,41 +22,41 @@ O LBP é conhecido por sua simplicidade, eficiência computacional e capacidade 
 
 #### MLP Classifier Confusion Matrix com feature extraction do Gray Histogram
 
-<img src="classificacao/results/mlp_classifier-04122023-1941.png" height="450px" width="600px" />
+<img src="results/mlp_classifier-04122023-1941.png" height="450px" width="600px" />
 
 #### MLP Classifier Confusion Matrix com Descritor LBP 
 
-<img src="classificacao/results/mlp_classifier-04122023-2202.png" height="450px" width="600px" />
+<img src="results/mlp_classifier-04122023-2202.png" height="450px" width="600px" />
 
 ### Random Forest
 
 #### Random Forest Confusion Matrix com feature extraction do Gray Histogram
 
-<img src="classificacao/results/rf_classifier-04122023-1941.png" height="450px" width="600px" />
+<img src="results/rf_classifier-04122023-1941.png" height="450px" width="600px" />
 
 #### Random Forest Confusion Matrix com Descritor LBP 
 
-<img src="classificacao/results/rf_classifier-04122023-2202.png" height="450px" width="600px" />
+<img src="results/rf_classifier-04122023-2202.png" height="450px" width="600px" />
 
 ### Support Vector Machine
 
 #### Support Vector Machine Confusion Matrix com feature extraction do Gray Histogram
 
-<img src="classificacao/results/svm_classifier-04122023-1941.png" height="450px" width="600px" />
+<img src="results/svm_classifier-04122023-1941.png" height="450px" width="600px" />
 
 #### Support Vector Machine Confusion Matrix com Descritor LBP 
 
-<img src="classificacao/results/svm_classifier-04122023-2202.png" height="450px" width="600px" />
+<img src="results/svm_classifier-04122023-2202.png" height="450px" width="600px" />
 
 ### Acurácia dos modelos
 
 #### Acurácia dos modelos com feature extraction do Gray Histogram
 
-<img src="classificacao/results/run_all_classifiers-04122023-1941.png" height="450px" width="600px" />
+<img src="results/run_all_classifiers-04122023-1941.png" height="450px" width="600px" />
 
 #### Acurácia dos modelos com Descritor LBP 
 
-<img src="classificacao/results/run_all_classifiers-04122023-2202.png" height="450px" width="600px" />
+<img src="results/run_all_classifiers-04122023-2202.png" height="450px" width="600px" />
 
 ## Setup
 
