@@ -1,4 +1,4 @@
-# Local Binary Patterns descriptor with Support Vector Machine, Random Forest and Multi-layer Perceptron classifiers
+# Local Binary Patterns descriptor with Support Vector Machine, Random Forest and Multi-layer Perceptron classifiers to predict COVID-19 in x-ray pictures
 
 ## Equipe
 
@@ -96,3 +96,5 @@ python run_all_classifiers.py
 após a execução os resultados estarão disponíveis na pasta results.
 
 ## Video Presentation
+
+[![Presentation](https://img.youtube.com/vi/Sj1oEFvnbV8/hqdefault.jpg)](https://www.youtube.com/embed/Sj1oEFvnbV8)
