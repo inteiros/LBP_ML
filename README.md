@@ -1,5 +1,27 @@
 # Local Binary Patterns descriptor with Support Vector Machine, Random Forest and Multi-layer Perceptron classifiers to predict COVID-19 in x-ray pictures
 
+## Table of Contents
+
+1. [Equipe](#equipe)
+2. [Descritor Implementado](#descritor-implementado)
+3. [Repositório do Projeto](#repositório-do-projeto)
+4. [Classificadores e Acurácia](#classificadores-e-acurácia)
+   - [Multi-layer Perceptron](#multi-layer-perceptron)
+     - [MLP Classifier Confusion Matrix com feature extraction do Gray Histogram](#mlp-classifier-confusion-matrix-com-feature-extraction-do-gray-histogram)
+     - [MLP Classifier Confusion Matrix com Descritor LBP](#mlp-classifier-confusion-matrix-com-descritor-lbp)
+   - [Random Forest](#random-forest)
+     - [Random Forest Confusion Matrix com feature extraction do Gray Histogram](#random-forest-confusion-matrix-com-feature-extraction-do-gray-histogram)
+     - [Random Forest Confusion Matrix com Descritor LBP](#random-forest-confusion-matrix-com-descritor-lbp)
+   - [Support Vector Machine](#support-vector-machine)
+     - [Support Vector Machine Confusion Matrix com feature extraction do Gray Histogram](#support-vector-machine-confusion-matrix-com-feature-extraction-do-gray-histogram)
+     - [Support Vector Machine Confusion Matrix com Descritor LBP](#support-vector-machine-confusion-matrix-com-descritor-lbp)
+   - [Acurácia dos modelos](#acurácia-dos-modelos)
+     - [Acurácia dos modelos com feature extraction do Gray Histogram](#acurácia-dos-modelos-com-feature-extraction-do-gray-histogram)
+     - [Acurácia dos modelos com Descritor LBP](#acurácia-dos-modelos-com-descritor-lbp)
+5. [Setup](#setup)
+6. [Video Presentation](#video-presentation)
+
+
 ## Equipe
 
 - João Gabriel Eler Mendes
