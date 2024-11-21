@@ -2,10 +2,9 @@
 
 ## Table of Contents
 
-1. [Equipe](#equipe)
-2. [Descritor Implementado](#descritor-implementado)
-3. [Repositório do Projeto](#repositório-do-projeto)
-4. [Classificadores e Acurácia](#classificadores-e-acurácia)
+1. [Descritor Implementado](#descritor-implementado)
+2. [Repositório do Projeto](#repositório-do-projeto)
+3. [Classificadores e Acurácia](#classificadores-e-acurácia)
    - [Multi-layer Perceptron](#multi-layer-perceptron)
      - [MLP Classifier Confusion Matrix com feature extraction do Gray Histogram](#mlp-classifier-confusion-matrix-com-feature-extraction-do-gray-histogram)
      - [MLP Classifier Confusion Matrix com Descritor LBP](#mlp-classifier-confusion-matrix-com-descritor-lbp)
@@ -18,7 +17,7 @@
    - [Acurácia dos modelos](#acurácia-dos-modelos)
      - [Acurácia dos modelos com feature extraction do Gray Histogram](#acurácia-dos-modelos-com-feature-extraction-do-gray-histogram)
      - [Acurácia dos modelos com Descritor LBP](#acurácia-dos-modelos-com-descritor-lbp)
-5. [Setup](#setup)
+4. [Setup](#setup)
 
 ## Descritor Implementado
 
