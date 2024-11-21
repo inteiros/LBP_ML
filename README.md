@@ -19,14 +19,6 @@
      - [Acurácia dos modelos com feature extraction do Gray Histogram](#acurácia-dos-modelos-com-feature-extraction-do-gray-histogram)
      - [Acurácia dos modelos com Descritor LBP](#acurácia-dos-modelos-com-descritor-lbp)
 5. [Setup](#setup)
-6. [Video Presentation](#video-presentation)
-
-
-## Equipe
-
-- João Gabriel Eler Mendes
-- Giulia de Paula Melão
-- Cristiane Fujihara Costa
 
 ## Descritor Implementado
 
@@ -116,7 +108,3 @@ python run_all_classifiers.py
 ```
 
 após a execução os resultados estarão disponíveis na pasta results.
-
-## Video Presentation
-
-[![Presentation](https://img.youtube.com/vi/Sj1oEFvnbV8/hqdefault.jpg)](https://www.youtube.com/embed/Sj1oEFvnbV8)
